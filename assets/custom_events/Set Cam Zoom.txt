@@ -1,0 +1,11 @@
+Sets Camera Zoom
+
+CREDIT TO THE WHITTY DEFINITIVE EDITION DEVS FOR THIS
+I legit just copy pasted it, and edited this description so I wouldn't get confused.
+
+Value 1: Cam zoom value
+
+Value 2: Duration for zoom
+
+if blank, it will smoothly zoom regularly,
+otherwise it will do an instant zoom
